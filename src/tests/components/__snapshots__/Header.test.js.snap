@@ -1,0 +1,415 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Header />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <h1>
+          Expensify
+        </h1>,
+        <ForwardRef(NavLink)
+          activeClassName="isActive"
+          exact={true}
+          to="/"
+        >
+          Go Home 
+        </ForwardRef(NavLink)>,
+        <ForwardRef(NavLink)
+          activeClassName="isActive"
+          to="/edit"
+        >
+          Go Edit 
+        </ForwardRef(NavLink)>,
+        <ForwardRef(NavLink)
+          activeClassName="isActive"
+          to="/help"
+        >
+          Go Help 
+        </ForwardRef(NavLink)>,
+        <ForwardRef(NavLink)
+          activeClassName="isActive"
+          to="/create"
+        >
+          Go Add 
+        </ForwardRef(NavLink)>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Expensify",
+        },
+        "ref": null,
+        "rendered": "Expensify",
+        "type": "h1",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "activeClassName": "isActive",
+          "children": "Go Home ",
+          "exact": true,
+          "to": "/",
+        },
+        "ref": null,
+        "rendered": "Go Home ",
+        "type": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "propTypes": Object {
+            "activeClassName": [Function],
+            "activeStyle": [Function],
+            "aria-current": [Function],
+            "className": [Function],
+            "exact": [Function],
+            "innerRef": [Function],
+            "isActive": [Function],
+            "location": [Function],
+            "onClick": [Function],
+            "replace": [Function],
+            "sensitive": [Function],
+            "strict": [Function],
+            "style": [Function],
+            "target": [Function],
+            "to": [Function],
+          },
+          "render": [Function],
+        },
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "activeClassName": "isActive",
+          "children": "Go Edit ",
+          "to": "/edit",
+        },
+        "ref": null,
+        "rendered": "Go Edit ",
+        "type": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "propTypes": Object {
+            "activeClassName": [Function],
+            "activeStyle": [Function],
+            "aria-current": [Function],
+            "className": [Function],
+            "exact": [Function],
+            "innerRef": [Function],
+            "isActive": [Function],
+            "location": [Function],
+            "onClick": [Function],
+            "replace": [Function],
+            "sensitive": [Function],
+            "strict": [Function],
+            "style": [Function],
+            "target": [Function],
+            "to": [Function],
+          },
+          "render": [Function],
+        },
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "activeClassName": "isActive",
+          "children": "Go Help ",
+          "to": "/help",
+        },
+        "ref": null,
+        "rendered": "Go Help ",
+        "type": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "propTypes": Object {
+            "activeClassName": [Function],
+            "activeStyle": [Function],
+            "aria-current": [Function],
+            "className": [Function],
+            "exact": [Function],
+            "innerRef": [Function],
+            "isActive": [Function],
+            "location": [Function],
+            "onClick": [Function],
+            "replace": [Function],
+            "sensitive": [Function],
+            "strict": [Function],
+            "style": [Function],
+            "target": [Function],
+            "to": [Function],
+          },
+          "render": [Function],
+        },
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "activeClassName": "isActive",
+          "children": "Go Add ",
+          "to": "/create",
+        },
+        "ref": null,
+        "rendered": "Go Add ",
+        "type": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "propTypes": Object {
+            "activeClassName": [Function],
+            "activeStyle": [Function],
+            "aria-current": [Function],
+            "className": [Function],
+            "exact": [Function],
+            "innerRef": [Function],
+            "isActive": [Function],
+            "location": [Function],
+            "onClick": [Function],
+            "replace": [Function],
+            "sensitive": [Function],
+            "strict": [Function],
+            "style": [Function],
+            "target": [Function],
+            "to": [Function],
+          },
+          "render": [Function],
+        },
+      },
+    ],
+    "type": "header",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <h1>
+            Expensify
+          </h1>,
+          <ForwardRef(NavLink)
+            activeClassName="isActive"
+            exact={true}
+            to="/"
+          >
+            Go Home 
+          </ForwardRef(NavLink)>,
+          <ForwardRef(NavLink)
+            activeClassName="isActive"
+            to="/edit"
+          >
+            Go Edit 
+          </ForwardRef(NavLink)>,
+          <ForwardRef(NavLink)
+            activeClassName="isActive"
+            to="/help"
+          >
+            Go Help 
+          </ForwardRef(NavLink)>,
+          <ForwardRef(NavLink)
+            activeClassName="isActive"
+            to="/create"
+          >
+            Go Add 
+          </ForwardRef(NavLink)>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Expensify",
+          },
+          "ref": null,
+          "rendered": "Expensify",
+          "type": "h1",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "activeClassName": "isActive",
+            "children": "Go Home ",
+            "exact": true,
+            "to": "/",
+          },
+          "ref": null,
+          "rendered": "Go Home ",
+          "type": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "propTypes": Object {
+              "activeClassName": [Function],
+              "activeStyle": [Function],
+              "aria-current": [Function],
+              "className": [Function],
+              "exact": [Function],
+              "innerRef": [Function],
+              "isActive": [Function],
+              "location": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "sensitive": [Function],
+              "strict": [Function],
+              "style": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          },
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "activeClassName": "isActive",
+            "children": "Go Edit ",
+            "to": "/edit",
+          },
+          "ref": null,
+          "rendered": "Go Edit ",
+          "type": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "propTypes": Object {
+              "activeClassName": [Function],
+              "activeStyle": [Function],
+              "aria-current": [Function],
+              "className": [Function],
+              "exact": [Function],
+              "innerRef": [Function],
+              "isActive": [Function],
+              "location": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "sensitive": [Function],
+              "strict": [Function],
+              "style": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          },
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "activeClassName": "isActive",
+            "children": "Go Help ",
+            "to": "/help",
+          },
+          "ref": null,
+          "rendered": "Go Help ",
+          "type": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "propTypes": Object {
+              "activeClassName": [Function],
+              "activeStyle": [Function],
+              "aria-current": [Function],
+              "className": [Function],
+              "exact": [Function],
+              "innerRef": [Function],
+              "isActive": [Function],
+              "location": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "sensitive": [Function],
+              "strict": [Function],
+              "style": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          },
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "activeClassName": "isActive",
+            "children": "Go Add ",
+            "to": "/create",
+          },
+          "ref": null,
+          "rendered": "Go Add ",
+          "type": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "propTypes": Object {
+              "activeClassName": [Function],
+              "activeStyle": [Function],
+              "aria-current": [Function],
+              "className": [Function],
+              "exact": [Function],
+              "innerRef": [Function],
+              "isActive": [Function],
+              "location": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "sensitive": [Function],
+              "strict": [Function],
+              "style": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          },
+        },
+      ],
+      "type": "header",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromError": true,
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    Symbol(enzyme.__providerValues__): undefined,
+  },
+  Symbol(enzyme.__providerValues__): Map {},
+}
+`;
